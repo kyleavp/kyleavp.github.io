@@ -14,9 +14,9 @@ Apply networking and cybersecurity fundamentals through labs and projects while 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | VLAN Configuration          | <a href="https://github.com/kyleavp/Secure-Enterprise-Network-Architecture/tree/main">Secure Enterprise Network Architecture</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Inter-VLAN Routing | <a href="https://github.com/kyleavp/Secure-Enterprise-Network-Architecture/tree/main">Secure Enterprise Network Architecture</a>|
+| Network Troubleshooting         | <a href="https://github.com/kyleavp/Secure-Enterprise-Network-Architecture/tree/main">Secure Enterprise Network Architecture</a>|
+| Enterprise Network Design      | <a href="https://github.com/kyleavp/Secure-Enterprise-Network-Architecture/tree/main">Secure Enterprise Network Architecture</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
