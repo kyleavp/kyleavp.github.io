@@ -9,7 +9,6 @@ Cybersecurity enthusiast with a Bachelor’s degree in Computer Information Syst
 Apply networking and cybersecurity fundamentals through labs and projects while preparing for an entry-level SOC analyst position.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -17,11 +16,9 @@ Apply networking and cybersecurity fundamentals through labs and projects while 
 | Inter-VLAN Routing | <a href="https://github.com/kyleavp/Secure-Enterprise-Network-Architecture/tree/main">Secure Enterprise Network Architecture</a>|
 | Network Troubleshooting         | <a href="https://github.com/kyleavp/Secure-Enterprise-Network-Architecture/tree/main">Secure Enterprise Network Architecture</a>|
 | Enterprise Network Design      | <a href="https://github.com/kyleavp/Secure-Enterprise-Network-Architecture/tree/main">Secure Enterprise Network Architecture</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -49,4 +46,3 @@ Apply networking and cybersecurity fundamentals through labs and projects while 
 
 ## Projects
 - <a href="https://github.com/kyleavp/Secure-Enterprise-Network-Architecture/tree/main">Secure Enterprise Network Architecture</a>
-- SOC Automation Project
